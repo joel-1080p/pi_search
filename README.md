@@ -10,19 +10,15 @@ This could be your name, town, or any word that's not too long.
 - Move this txt file in to the same direcotry as `pi_search.py`.
   
 ## HOW IT WORKS
-- `pi_search.py` converts the alphabet to T9 style (same as your old texting phone).
-- 
+- `pi_search.py` maps the alphabet to T9 style (same as your old texting phone).
+- It returns the location of the term as a JSON file.
 
 ## HOW I USE IT
-- 
-
-## KNOWN ISSUES
-- 
+- I use it in my portfolio website as part of the react/flask backend. [Website](http://38.125.229.163:3000/pi-search)
 
 ## Requirements
 
 -   [Python](https://www.python.org) \>= 2.7, 3.4+
--   [Selenium](https://www.selenium.dev/) \>= 4.8
 -   [Flask](https://flask.palletsprojects.com/en/3.0.x/) \>= 3.0.3
 
 ### P.S.
