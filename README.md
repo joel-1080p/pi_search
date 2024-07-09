@@ -2,8 +2,8 @@
 
 ![pi-search-logo (1)](https://github.com/joel-1080p/pi_search/assets/156847809/ef0a1e1d-2625-4a72-9bea-7aeaf6004981)
 
-# Pi Search lets you search pi for any kind of search tearm.
-# This could be your name, town, or any word that's not too long.
+Pi Search lets you search pi for any kind of search tearm.
+This could be your name, town, or any word that's not too long.
 
 ## RUNNING PI SEARCH
 - Downoad Pi Numbers from [here](https://pi2e.ch/blog/wp-content/uploads/2017/03/pi_dec_1m.txt) (It was too large for Github) 
